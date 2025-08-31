@@ -1,4 +1,4 @@
-# LiveKit Voice Agent
+# Phone System, Web Client, Mobile APP Voice Agent with livekit
 
 A production-ready voice agent implementation using LiveKit and Python, featuring advanced conversational AI capabilities and optional telephony integration.
 
@@ -161,7 +161,7 @@ Regional SIP Configuration:
 1. **Clone and navigate to the repository:**
 
 ```bash
-git clone https://github.com/danieladdisonorg/livekit-voice-agent.git
+git clone https://github.com/sayedtaban/livekit-voice-agent.git
 cd livekit-voice-agent
 ```
 
@@ -221,9 +221,6 @@ Start the agent in development mode:
 python3 agent.py dev
 ```
 
-### Frontend Integration
-
-This agent requires a compatible frontend application. We recommend using the [LiveKit Next.js Voice Agent Interface](https://github.com/kylecampbell/livekit-nextjs-voice-agent-interface) for a complete solution.
 
 ## Telephony Integration (Optional)
 
